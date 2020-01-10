@@ -22,3 +22,6 @@ The office profile filename prefix
 
 'fileExt'         =".VHDX"
 The file extension, VHD or VHDX
+
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DA7DENHW5AXL8&currency_code=SEK&source=url)
