@@ -12,7 +12,7 @@ The path to the Profile share
 
 'ProfileSubFolder'="\path\below\<username>\in\profileroot\"
 The path below the username where the vhdx files reside for example:
-\\fileserver\profileshare\username\#sub\folder\#files.vhdx
+\\fileserver\profileshare\username"\sub\folder\"files.vhdx
 
 'pPrefix'         ="Profile_"
 The profile filename prefix
